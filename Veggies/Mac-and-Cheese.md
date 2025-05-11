@@ -15,8 +15,8 @@ Macaroni & White Cheese Sauce – Mom’s recipe from Betty Crocker
 
 5 servings
 
-Tasty Alternatives:
-Carrots - Use sliced carrots in place of macaroni
-Garden: Stir in 10 oz frozen peas or green beans
-Ham: Stir in 1 cup cut up fully cooked smoked ham
-Hot Dog: Stir 1 cup sliced frankfurters (about 3) or cut up luncheon meat
+## Tasty Alternatives
+* Carrots - Use sliced carrots in place of macaroni
+* Garden: Stir in 10 oz frozen peas or green beans
+* Ham: Stir in 1 cup cut up fully cooked smoked ham
+* Hot Dog: Stir 1 cup sliced frankfurters (about 3) or cut up luncheon meat
