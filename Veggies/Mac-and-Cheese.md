@@ -1,4 +1,4 @@
-Macaroni & White Cheese Sauce – Mom’s recipe from Betty Crocker
+# Macaroni & White Cheese Sauce – Mom’s recipe from Betty Crocker
 
 * 1 to 1 1⁄2 cups uncooked elbow macaroni or rigatoni
 * 1⁄4 cup butter or margarine
@@ -11,7 +11,8 @@ Macaroni & White Cheese Sauce – Mom’s recipe from Betty Crocker
 * Breadcrumbs
 
 1. Cook macaroni as directed. 
-2. Preaheat oven to 375. Cook and stir margarine, onion, salt and pepper over medium heat until onion is slightly tender. Original method: Blend in flour. Cook over low heat, stirring constantly, until mixture is smooth and bubbly; remove from heat. Stir in milk. (alternate method: mix milk and flour in shaker container. Stir mixture into margarine and onions). Heat to boiling over medium heat, stirring constantly. Boil and stir one minute; remove from heat. Stir in cheese until melted. Place well drained macaroni in ungreased 1 1⁄2 quart casserole. Stir cheese sauce into macaroni and sprinkle breadcrumbs on top. Cook uncovered at 375 for 30 minutes. 
+2. Preaheat oven to 375. Cook and stir margarine, onion, salt and pepper over medium heat until onion is slightly tender. Original method: Blend in flour. Cook over low heat, stirring constantly, until mixture is smooth and bubbly; remove from heat. Stir in milk. (alternate method: mix milk and flour in shaker container. Stir mixture into margarine and onions). Heat to boiling over medium heat, stirring constantly. Boil and stir one minute; remove from heat. Stir in cheese until melted. Place well drained macaroni in ungreased 1 1⁄2 quart casserole. Stir cheese sauce into macaroni. Cook uncovered at 375 for 30 minutes. 
+3. Sprinkle breadcrumbs on tops and bake another 5 min.
 
 5 servings
 
