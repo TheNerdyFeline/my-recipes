@@ -31,7 +31,7 @@ Add the butter and with a pastry blender or your fingers, squeeze and mix the bu
 
 ## Substitution
 * Use dried cranberries instead of cherries
-* [Sour Milk instead of Buttermilk](../Substitutes/buttermilk-substitute)
+* [Sour Milk instead of Buttermilk](../Substitutes/buttermilk-substitute.md)
 
 ## Notes
 ### Second attempt at dairy free

@@ -15,7 +15,7 @@
 7. Move baked biscuits to cooling rack to allow excess moisture to escape. Let rest for a few minutes, then dig in. The biscuits keep for at least several days in a sealed container.
 
 ## Substitutes:
-* [Sour Milk instead of Buttermilk](../Substitutes/buttermilk-substitute)
+* [Sour Milk instead of Buttermilk](../Substitutes/buttermilk-substitute.md)
 * Lacking milk, powdered milk works well. In the worst case water also works, but the biscuits will be slightly less
 flavorful.
 
