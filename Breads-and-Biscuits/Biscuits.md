@@ -1,10 +1,10 @@
 # Wellons Biscuits
 
-* 500g (~4c) of all purpose flour 
-* 4tsp baking powder
-* 2tsp salt
-* 1c (2 sticks) butter
-* 1.25c buttermilk
+* 500 G (~4 c) of all purpose flour 
+* 4 Tsp baking powder
+* 2 Tsp salt
+* 1 Cup (2 sticks) butter
+* 1.25 Cups buttermilk
 
 1. Unwrap butter and place in freezer for 30-60 minutes. 
 2. Thoroughly mix dry ingredients in a large bowl using a whisk. Chilling the dry ingredients in the fridge while the butter is freezing can help with forming the biscuits later.
@@ -15,9 +15,8 @@
 7. Move baked biscuits to cooling rack to allow excess moisture to escape. Let rest for a few minutes, then dig in. The biscuits keep for at least several days in a sealed container.
 
 ## Substitutes:
-* Buttermilk: If lacking buttermilk, stir 1tbsp of vinegar per cup of milk  and let sit
-for at least 10-15 minutes. Lacking milk, powdered milk works well. In
-the worst case water also works, but the biscuits will be slightly less
+* [Sour Milk instead of Buttermilk](../Substitutes/buttermilk-substitute)
+* Lacking milk, powdered milk works well. In the worst case water also works, but the biscuits will be slightly less
 flavorful.
 
 ## Add Flavor:

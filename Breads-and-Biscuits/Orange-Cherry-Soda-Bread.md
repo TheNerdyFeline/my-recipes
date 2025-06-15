@@ -1,13 +1,14 @@
 # Orange Cherry Soda Bread
 
-* 4 3/4 cups all-purpose flour (DIVIDED)
-* 1/4 cup granulated sugar
-* 1 teaspoon baking soda
-* 1 1/2 teaspoons salt
-* 1/2 cup cold unsalted butter (cut into squares, 1 stick )
-* 1 3/4 cup buttermilk
-* 1 large egg
-* 1 cup dried cherries chopped
+* 4 3/4 Cups all-purpose flour (DIVIDED) (600 g)
+* 1/4 Cup granulated sugar
+* 1 Tsp baking soda
+* 1 1/2 Tsp salt
+* 1/2 Cup cold unsalted butter (cut into squares, 1 stick )
+* 1 3/4 Cup buttermilk
+* 1 Large egg
+* 1 Tbsp freshly grated orange zest (from 1 medium orange)
+* 1 Cup dried cherries chopped
 
 
 1. Preheat oven to 375 degrees Fahrenheit. Line a cookie sheet with a silicone mat or a piece of parchment paper, or coat with non-stick spray.
@@ -29,15 +30,15 @@ Add the butter and with a pastry blender or your fingers, squeeze and mix the bu
 
 
 ## Substitution
-* Use dried cranberries instaed of cherriesp
-* [Sour Milk instead of Buttermilk]{../Substitutes/buttermilk-substitute}
+* Use dried cranberries instead of cherries
+* [Sour Milk instead of Buttermilk](../Substitutes/buttermilk-substitute)
 
 ## Notes
-### First attempt at dairy free
+### Second attempt at dairy free
  - Soy milk instead of cow milk
  - Plant butter instead of butter
- - Orange flavor not as strong, next time replace part of sour soy milk with fresh orange juice
+ - Orange flavor stronger, but needed more juice, use larger orange to get more juice, just under 1/4 cup not enough
 
 
 ## Source
-Original Recipe from [KitchenTreaty]{https://www.kitchentreaty.com/cranberry-orange-irish-soda-bread/}
+Original Recipe from [KitchenTreaty](https://www.kitchentreaty.com/cranberry-orange-irish-soda-bread/)
